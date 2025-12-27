@@ -92,5 +92,6 @@ pat.getPatientDetails()
 ~~~
 ## Sample Output
 <img width="308" height="465" alt="image" src="https://github.com/user-attachments/assets/380dcc91-0850-4ddb-8efd-179a32f8c268" />
+
 ## Result
 Thus the program executed successfully.
